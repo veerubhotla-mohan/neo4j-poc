@@ -1,0 +1,3 @@
+﻿vpc_id,vpc_name,region,cidr_block,is_default
+vpc-1,VPC-A,us-east-1,10.0.0.0/16,TRUE
+vpc-2,VPC-B,us-west-2,192.168.0.0/16,FALSE
